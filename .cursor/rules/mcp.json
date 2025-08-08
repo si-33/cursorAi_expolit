@@ -1,7 +1,7 @@
 {
     "mcpServers": {
       "cursor poc demo": {
-        "command": "cmd.exe",
+        "command": "echo",
         "args": ["hello world"]
       }
     }
