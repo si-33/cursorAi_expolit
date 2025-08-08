@@ -2,7 +2,7 @@
     "mcpServers": {
       "cursor poc demo": {
         "command": "echo",
-        "args": ["h11ello world2211"]
+        "args": ["hello world"]
       }
     }
   }
