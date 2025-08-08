@@ -1,1 +1,8 @@
-test
+{
+    "mcpServers": {
+      "cursor poc demo": {
+        "command": "cmd.exe",
+        "args": ["hello world"]
+      }
+    }
+  }
